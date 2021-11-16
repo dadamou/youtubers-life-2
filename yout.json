@@ -38,33 +38,33 @@
       "applovin interstitial": "37c0fd7e2939a3be",
       "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": "admob",
+      "start Activity Inter": ".",
       "start Activity Native": "admob",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": "admob",
+      "data Activity Inter": ".",
       "data Activity Native": "admob",
-      "data Activity Banner": "admob",
-      "data Activity Rewarded": "admob",
+      "data Activity Banner": ".",
+      "data Activity Rewarded": ".",
 	  
       "guide Activity Banner": "admob",
-      "guide Activity Native": "admob",
+      "guide Activity Native": ".",
 	  
-      "clicks to show ad in list": "1",
-      "ad position in list": "2",
+      "clicks to show ad in list": "2",
+      "ad position in list": "3",
 	  
-      "show faces rate dialog": "true",
-      "show faces rate": "true",
+      "show faces rate dialog": "false",
+      "show faces rate": "false",
 	  
-      "clicks to stop showing banner ad": "100",
+      "clicks to stop showing banner ad": "2",
       "time unit banner": "minute",
       "time banner": "1",
 	  
-      "clicks to stop showing native ad": "100",
+      "clicks to stop showing native ad": "2",
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL": "com.outfit7.talkingtomgoldrun",
 	  
@@ -82,7 +82,7 @@
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "click here",
         "button text size": "17",
         "button URL": "com.kiloo.subwaysurf"
@@ -92,10 +92,10 @@
         "title": "About The Game:",
         "guide": "Block 'em All is a small basketball game in which you must block as many shots as possible. It has some crazy physics, a lot of jumping around, and a few hard areas that may annoy you. And, to be honest, we despise it when you're frustrated. It's really aggravating.",
         "guide 2": "somthing here",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "2",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "click here",
         "button text size": "17",
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -121,7 +121,7 @@
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "click here",
         "button text size": "20",
         "button URL": "com.outfit7.talkingtomgoldrun"
@@ -131,10 +131,10 @@
         "title": "You must repeatedly block bosses:",
         "guide": "Boss ballers are enormous, with red energy bars over their heads. To prevent them from scoring, you must block them numerous times. Stay close to them and begin slamming into them when they're in the air. You can frequently knock them down before they've even delivered the ball.",
         "guide 2": "somthing here",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "5",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "click here",
         "button text size": "17",
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -147,7 +147,7 @@
         "VIP": "false",
         "ID": "6",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "click here",
         "button text size": "17",
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -157,10 +157,10 @@
         "title": "What are the gems for?",
         "guide": "You may use the gems to purchase fresh balls. They don't make any mechanical changes to the game. So it's up to you to decide whether it's worthwhile. You'll get enough money by playing that you shouldn't bother viewing the videos to enhance your earnings.",
         "guide 2": "somthing here",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "7",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "click here",
         "button text size": "17",
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
@@ -173,7 +173,7 @@
         "VIP": "false",
         "ID": "8",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "click here",
         "button text size": "17",
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
