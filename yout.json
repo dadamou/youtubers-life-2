@@ -1,38 +1,38 @@
 {
   "json object": {
     "data": {
-		
+      "mopub initialize id": "920b6145fb1546cf8b5cf2ac34638bb7",
       "mopub banner": "b195f8dd8ded45fe847ad89ed1d016da",
       "mopub native": "11a17b188668469fb0412708c3d16813",
       "mopub interstitial": "24534e1901884e398f1253216226017e",
-	  "mopub rewarded": "920b6145fb1546cf8b5cf2ac34638bb7",
+      "mopub rewarded": "920b6145fb1546cf8b5cf2ac34638bb7",
 	  
-      "tapdaq banner": ".",
-      "tapdaq native": ".",
-      "tapdaq interstitial": ".",
-	  "tapdaq rewarded": ".",
+      "tapdaq banner": "default",
+      "tapdaq native": "default",
+      "tapdaq interstitial": "default",
+      "tapdaq rewarded": "default",
       "tapdaq app key": ".",
       "tapdaq client key": ".",
-      
-	  "admob banner": "ca-app-pub-3940256099942544/6300978111",
+	  
+      "admob banner": "ca-app-pub-3940256099942544/6300978111",
       "admob native": "ca-app-pub-3940256099942544/2247696110",
       "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
-	  "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
-     
-	  "ironsource interstitial": ".",
-	  "ironsource banner": ".",
-	  "ironsource rewarded": ".",
+      "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
+	  
+      "ironsource interstitial": "DefaultInterstitial",
+      "ironsource banner": "DefaultBanner",
+      "ironsource rewarded": "DefaultRewardedVideo",
       "ironsource app key": ".",
-     
-	  "unity interstitial": ".",
-      "unity banner": ".",
-	  "unity rewarded": ".",
+	  
+      "unity interstitial": "Interstitial_Android",
+      "unity banner": "Banner_Android",
+      "unity rewarded": "Rewarded_Android",
       "unity app id": ".",
 	  
       "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL",
+      "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
 	  
 	  "start Activity Inter": "admob",
