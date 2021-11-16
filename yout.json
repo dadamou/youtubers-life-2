@@ -11,8 +11,8 @@
       "tapdaq native": "default",
       "tapdaq interstitial": "default",
       "tapdaq rewarded": "default",
-      "tapdaq app key": ".",
-      "tapdaq client key": ".",
+      "tapdaq app key": "61182d0386c31c4e07c109a0",
+      "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
 	  
       "admob banner": "ca-app-pub-3940256099942544/6300978111",
       "admob native": "ca-app-pub-3940256099942544/2247696110",
@@ -22,155 +22,162 @@
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
       "ironsource rewarded": "DefaultRewardedVideo",
-      "ironsource app key": ".",
+      "ironsource app key": "10418ab31",
 	  
       "unity interstitial": "Interstitial_Android",
       "unity banner": "Banner_Android",
       "unity rewarded": "Rewarded_Android",
-      "unity app id": ".",
+      "unity app id": "4305873",
 	  
       "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
+	  "applovin banner": "13482be8f771efc7",
+      "applovin interstitial": "37c0fd7e2939a3be",
+      "applovin rewarded": "6405227d47f8fe55",
 	  
-	  "start Activity Inter": "admob",
-	  "start Activity Native": "admob",
-	  "start Activity Banner": ".",
+      "start Activity Inter": "admob",
+      "start Activity Native": "admob",
+      "start Activity Banner": ".",
 	  
-	  "data Activity Inter": "admob",
-	  "data Activity Native": "admob",
-	  "data Activity Banner": "admob",
-	  "data Activity Rewarded": "admob",
+      "data Activity Inter": "admob",
+      "data Activity Native": "admob",
+      "data Activity Banner": "admob",
+      "data Activity Rewarded": "admob",
 	  
-	  "guide Activity Banner": "admob",
-	  "guide Activity Native": "admob",
+      "guide Activity Banner": "admob",
+      "guide Activity Native": "admob",
 	  
+      "clicks to show ad in list": "1",
+      "ad position in list": "2",
 	  
-	  "clicks to show ad in list": "2",
-	  "ad position in list": "2",
+      "show faces rate dialog": "true",
+      "show faces rate": "true",
 	  
-	  "show faces rate dialog": "true",
-	  "show faces rate": "true",
-	 
-	  "clicks to stop showing banner ad": "2",
-	  "time unit banner": "minute",
-	  "time banner": "1",
+      "clicks to stop showing banner ad": "100",
+      "time unit banner": "minute",
+      "time banner": "1",
 	  
-	  "clicks to stop showing native ad": "2",
-	  "time unit native": "second",
-	  "time native": "40",
+      "clicks to stop showing native ad": "100",
+      "time unit native": "second",
+      "time native": "40",
 	  
-	  "show CPA": "true",
+      "show CPA": "true",
       "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL": "com.outfit7.talkingtomgoldrun",
 	  
-	  "is app suspended": "false",
-	  "update title": "A new update for this app",
-	  "update message": "Update this app because this version has some isues",
-	  "update URL": "com.innersloth.spacemafia"
-	  
+      "is app suspended": "false",
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some isues",
+      "update URL": "com.innersloth.spacemafia"
     },
-	
     "items": [
       {
         "image": "https://ia601404.us.archive.org/22/items/s2_20210807/s1.png",
         "title": "Welcome :)",
         "guide": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-		"guide 2": "somthing here",
-		"VIP": "false",
+        "guide 2": "somthing here",
+        "VIP": "false",
+        "ID": "1",
 		
-		"show button": "true",
+        "show button": "true",
         "button text": "click here",
-		"button text size": "17",
-		"button URL": "com.kiloo.subwaysurf"
+        "button text size": "17",
+        "button URL": "com.kiloo.subwaysurf"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s2.png",
         "title": "About The Game:",
         "guide": "Block 'em All is a small basketball game in which you must block as many shots as possible. It has some crazy physics, a lot of jumping around, and a few hard areas that may annoy you. And, to be honest, we despise it when you're frustrated. It's really aggravating.",
-		"guide 2": "somthing here",
-		"VIP": "true",
+        "guide 2": "somthing here",
+        "VIP": "true",
+        "ID": "2",
 		
-		"show button": "true",
+        "show button": "true",
         "button text": "click here",
-		"button text size": "17",
-		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s3.png",
         "title": "Make your first move small:",
         "guide": "You must swipe to begin the level, but if your initial move is too large, you will fail. You will not be in a position to block the initial shot. It is preferable to just tap the screen – That way, you won't move much and will be able to react to the first person in the line.",
-		"guide 2": "somthing here",
-		"VIP": "false",
+        "guide 2": "somthing here",
+        "VIP": "false",
+        "ID": "3",
 		
-		"show button": "false",
+        "show button": "false",
         "button text": "click here",
-		"button text size": "17",
-		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s4.png",
         "title": "Wait for your opponent:",
         "guide": "Opponents use one of two approaches: dunks or shots. You should wait to see whether they move before attempting to stop them. It is a foul to strike an opponent when they are on the court. If you commit three fouls, you will fail the level. You can barge into a player who is in the air as often as you like. Take a moment to observe what is going on, then decide on the best course of action.",
-		"guide 2": "somthing here",
-		"VIP": "false",
+        "guide 2": "somthing here",
+        "VIP": "false",
+        "ID": "4",
 		
-		"show button": "true",
+        "show button": "true",
         "button text": "click here",
-		"button text size": "20",
-		"button URL": "com.outfit7.talkingtomgoldrun"
+        "button text size": "20",
+        "button URL": "com.outfit7.talkingtomgoldrun"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s5.png",
         "title": "You must repeatedly block bosses:",
         "guide": "Boss ballers are enormous, with red energy bars over their heads. To prevent them from scoring, you must block them numerous times. Stay close to them and begin slamming into them when they're in the air. You can frequently knock them down before they've even delivered the ball.",
-		"guide 2": "somthing here",
-		"VIP": "true",
+        "guide 2": "somthing here",
+        "VIP": "true",
+        "ID": "5",
 		
-		"show button": "true",
+        "show button": "true",
         "button text": "click here",
-		"button text size": "17",
-		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
         "image": "https://ia601404.us.archive.org/22/items/s2_20210807/s6.png",
         "title": "Stop your movements:",
         "guide": "Just because you're in the air doesn't mean you can't adjust your course with a swipe. You can frequently knock them down before they've even delivered the ball. Instead of just waiting and hope you land someplace beneficial, utilize these to put yourself back in a good position to stop the following shot.",
-		"guide 2": "somthing here",
-		"VIP": "false",
+        "guide 2": "somthing here",
+        "VIP": "false",
+        "ID": "6",
 		
-		"show button": "true",
+        "show button": "true",
         "button text": "click here",
-		"button text size": "17",
-		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s7.png",
         "title": "What are the gems for?",
         "guide": "You may use the gems to purchase fresh balls. They don't make any mechanical changes to the game. So it's up to you to decide whether it's worthwhile. You'll get enough money by playing that you shouldn't bother viewing the videos to enhance your earnings.",
-		"guide 2": "somthing here",
-		"VIP": "true",
+        "guide 2": "somthing here",
+        "VIP": "true",
+        "ID": "7",
 		
-		"show button": "true",
+        "show button": "true",
         "button text": "click here",
-		"button text size": "17",
-		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s3.png",
         "title": "Special Thanks",
         "guide": "Thank you for downloading our app, and we hope it will help you get better in the game :)",
-		"guide 2": "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?<br>Short answer:<br> It depends on you. <br>Long answer:<br> You have access to do almost anything you want. Now it’s your choice what you want to do.<br>That said:<br>Lucky Patcher is the app that gives you God Mode in using any app on your android device. In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.<br>Want to know the best part?<br>You can even download paid apps officially from the play store directly without paying any money.<br>Here’s how:<br>This app bypasses the play store security & billing section while buying any paid apps.<br>It gets better:<br>When you find your android device free from any type of ads.<br>Just imagine:<br>There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.<br>How’s that possible?<br>The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.I know how great it feels like to use apps without seeing those creepy ads.<br>Ever thought of using pro versions of different apps?<br>Do you even know:How fascinating is it to use a pro version of an app? Well, if you haven’t used then sad reacts for you.But don’t worry. Lucky Patcher has got your back.<br>Lucky Patcher will let you use the pro versions of any app with just by few clicks.Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.Lucky Patcher is always up to date to serve your purpose. You can download the awesome app for free now in the next page. <br><b>Go Back To Menu And Select The Third Page For Downloading The App</b>",
-		"VIP": "false",
+        "guide 2": "If I start telling all of the features of Lucky Patcher I don’t think it will end. If you ask me, “What will I do with Lucky Patcher?<br>Short answer:<br> It depends on you. <br>Long answer:<br> You have access to do almost anything you want. Now it’s your choice what you want to do.<br>That said:<br>Lucky Patcher is the app that gives you God Mode in using any app on your android device. In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.<br>Want to know the best part?<br>You can even download paid apps officially from the play store directly without paying any money.<br>Here’s how:<br>This app bypasses the play store security & billing section while buying any paid apps.<br>It gets better:<br>When you find your android device free from any type of ads.<br>Just imagine:<br>There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.<br>How’s that possible?<br>The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.I know how great it feels like to use apps without seeing those creepy ads.<br>Ever thought of using pro versions of different apps?<br>Do you even know:How fascinating is it to use a pro version of an app? Well, if you haven’t used then sad reacts for you.But don’t worry. Lucky Patcher has got your back.<br>Lucky Patcher will let you use the pro versions of any app with just by few clicks.Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.Lucky Patcher is always up to date to serve your purpose. You can download the awesome app for free now in the next page. <br><b>Go Back To Menu And Select The Third Page For Downloading The App</b>",
+        "VIP": "false",
+        "ID": "8",
 		
-		"show button": "true",
+        "show button": "true",
         "button text": "click here",
-		"button text size": "17",
-		"button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       }
-	  
     ]
   }
 }
